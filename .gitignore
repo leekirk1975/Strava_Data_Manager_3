@@ -1,0 +1,18 @@
+
+
+
+Git ignore
+#directories
+venv/
+data/
+bin/
+lib/
+.idea/
+*.iml
+/share/
+/etc/
+/include/
+
+#specific files
+pyvenv.cfg
+/Client.secret.txt
